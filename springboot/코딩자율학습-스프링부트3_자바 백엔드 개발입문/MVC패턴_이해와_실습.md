@@ -97,7 +97,9 @@
 </div>
 ```
  * 이렇게 한 후  localhost:8080/hi 로 접속하면
-  ![image](https://github.com/user-attachments/assets/e599d268-7ef7-4414-8329-731dd507d12f)
+
+ ![image](https://github.com/user-attachments/assets/e599d268-7ef7-4414-8329-731dd507d12f)
+ 
  * 레이 아웃이 적용된 /hi 페이지가 나온다
 * 4-2 템플릿 화
   * 템플릿화 한다는 말은 코드를 하나의 틀로 만들어 변수화한다는 말이다
