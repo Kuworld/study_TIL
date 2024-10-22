@@ -117,7 +117,7 @@
     </div>
     {{>layouts/footer}}
     ```
-    ![image](https://github.com/user-attachments/assets/641b1196-aadd-49e4-82a4-84861b80641c)
+ ![image](https://github.com/user-attachments/assets/641b1196-aadd-49e4-82a4-84861b80641c)
 
   * 이렇게 한 후 localhost:8080/hi 로 접속하면 템플릿화 하기 전에 페이지와 동일하게 적용된다
     
